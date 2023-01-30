@@ -1,0 +1,26 @@
+{
+	"storyName": "the battle of exe's",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Tails",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		null
+	],
+	"songs": [
+		[
+			"confronting-yourself",
+			"blacksusser",
+			[
+				20,
+				0,
+				26
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Eggman"
+}

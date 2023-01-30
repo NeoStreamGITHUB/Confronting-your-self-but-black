@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Icon-blacksusser.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SUS0000" x="0" y="0" width="111" height="166"/>
+	<SubTexture name="SUS0001" x="111" y="0" width="111" height="166"/>
+	<SubTexture name="SUS0002" x="222" y="0" width="111" height="166"/>
+	<SubTexture name="SUS0003" x="333" y="0" width="111" height="166"/>
+	<SubTexture name="SUS0004" x="0" y="166" width="111" height="166"/>
+	<SubTexture name="SUS0005" x="111" y="166" width="111" height="166"/>
+	<SubTexture name="SUS0006" x="222" y="166" width="111" height="166"/>
+</TextureAtlas>
